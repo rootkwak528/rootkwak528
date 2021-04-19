@@ -30,11 +30,11 @@ and learn a new advanced technology such as blockchain.
 
 * GitHub stats
 
-![Root Kwak's github stats](https://github-readme-stats-git-master-rootkwak528.vercel.app/api?username=rootkwak528&show_icons=true)
+![Root Kwak's github stats](https://github-readme-stats-rootkwak528.vercel.app/api?username=rootkwak528&show_icons=true&theme=vue)
 
 * Most Used Languages
 
-![Root Kwak's most used languages](https://github-readme-stats-git-master-rootkwak528.vercel.app/api/top-langs/?username=rootkwak528&show_icons=true&title_color=004386&icon_color=004386&layout=compact&card-width=455)
+![Root Kwak's most used languages](https://github-readme-stats-rootkwak528.vercel.app/api/top-langs/?username=rootkwak528&show_icons=true&title_color=004386&icon_color=004386&layout=compact&card-width=455)
 
 
 
