@@ -34,10 +34,10 @@ and learn a new advanced technology such as blockchain.
 
 * Most Used Languages
 
-![Root Kwak's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rootkwak528&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+![Root Kwak's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rootkwak528&show_icons=true&title_color=004386&icon_color=004386&layout=compact&card-width=455)
 
 
 
 ## :raising_hand_woman: :raising_hand_man: :raising_hand_woman: :raising_hand_man:
 
-* rootkwak528@gmail.com
+* email : rootkwak528@gmail.com
