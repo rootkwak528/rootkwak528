@@ -33,6 +33,6 @@ and learn a new advanced technology such as blockchain.
 
 
 
-## :raising_hand_woman: :raising_hand_man: :raising_hand_woman: :raising_hand_man:
+## :raising_hand_woman: :raising_hand_man:
 
 * email : rootkwak528@gmail.com
