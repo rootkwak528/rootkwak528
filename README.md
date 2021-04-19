@@ -30,9 +30,3 @@ and learn a new advanced technology such as blockchain.
 
 ![Root Kwak's github stats](https://github-readme-stats-rootkwak528.vercel.app/api?username=rootkwak528&show_icons=true&theme=vue)
 ![Root Kwak's most used languages](https://github-readme-stats-rootkwak528.vercel.app/api/top-langs/?username=rootkwak528&show_icons=true&title_color=004386&icon_color=004386&layout=compact&card_width=445)
-
-
-
-## :raising_hand_woman: :raising_hand_man:
-
-* email : rootkwak528@gmail.com
