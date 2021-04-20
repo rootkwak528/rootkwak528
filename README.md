@@ -20,7 +20,7 @@ I am a fast learner.
 
 My native language is Python and I do web programming with Django.
 
-This year, I'm planning to practice JavaScript, the core language of the web front-end,
+This year, I'm planning to practice JavaScript, Vue.js,
 
 and learn a new advanced technology such as blockchain.
 
