@@ -28,5 +28,5 @@ and learn a new advanced technology such as blockchain.
 
 ## :computer:
 
-![Root Kwak's github stats](https://github-readme-stats-rootkwak528.vercel.app/api?username=rootkwak528&show_icons=true&theme=vue)
-![Root Kwak's most used languages](https://github-readme-stats-rootkwak528.vercel.app/api/top-langs/?username=rootkwak528&show_icons=true&title_color=004386&icon_color=004386&layout=compact&card_width=445)
+[![Root Kwak's github stats](https://github-readme-stats-rootkwak528.vercel.app/api?username=rootkwak528&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Root Kwak's most used languages](https://github-readme-stats-rootkwak528.vercel.app/api/top-langs/?username=rootkwak528&show_icons=true&title_color=004386&icon_color=004386&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
